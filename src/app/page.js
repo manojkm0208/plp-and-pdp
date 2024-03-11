@@ -1,5 +1,5 @@
 import { getData } from "@/API/apis";
-import ProductCard from "@/components/ProductCard/ProductCard";
+import ProductCard from "@/Components/ProductCard/ProductCard";
 import Link from "next/link";
 
 export default async function Home() {
